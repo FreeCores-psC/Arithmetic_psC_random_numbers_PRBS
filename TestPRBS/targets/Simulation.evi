@@ -1,0 +1,17 @@
+; =============================================================================
+; Input Event File for'Simulation' target
+; Project : 'random.rpj'
+; Template created on 2020/12/18 20h47:12
+; =============================================================================
+
+; ------------------- Initialization -------------------
+; Initial value of each port
+; Format :  input_number  initial_value
+
+[initials_values]
+
+
+; ------------------- Event Table -------------------
+; Format :   type   input_number  time(ms)   value
+
+[events]

@@ -1,0 +1,31 @@
+[*]
+[*] GTKWave Analyzer v3.3.87 (w)1999-2017 BSI
+[*] Sat Dec 19 01:19:29 2020
+[*]
+[dumpfile] "H:\010_psC\0087_VirtualBoard\0.3\Examples\14_Random\Random\targets\Simulation.vcd"
+[dumpfile_mtime] "Sat Dec 19 01:18:12 2020"
+[dumpfile_size] 31705
+[savefile] "H:\010_psC\0087_VirtualBoard\0.3\Examples\14_Random\Random\targets\Simulation.sav"
+[timestart] 930
+[size] 1278 457
+[pos] -1 -1
+*-11.000000 6 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 197
+[signals_width] 158
+[sst_expanded] 1
+[sst_vpaned_height] 103
+@28
+top.oRandomBit
+@10025
+top.oRandomByte[7:0]
+@20000
+-
+-
+-
+-
+-
+-
+-
+-
+[pattern_trace] 1
+[pattern_trace] 0
