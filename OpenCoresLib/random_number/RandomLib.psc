@@ -9,7 +9,7 @@
 //
 //    - Random number generator (CRandomGen32)
 //        This cores generates 32 bits random numbers. It is an implemenation
-//        of the the “xoroshiro128+ 1.0” algorithm.
+//        of the the “xoroshiro128+ 1.0” algorithm. 
 //
 //        Licensing:
 //            Initial author statement:
