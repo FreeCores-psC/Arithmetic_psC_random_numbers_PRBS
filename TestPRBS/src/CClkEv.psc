@@ -1,4 +1,4 @@
-component CClkEv (out active bit oClkEv)
+component CClkEv (out active bit oClkEv) 
 {
     always()
     {
