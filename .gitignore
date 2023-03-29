@@ -1,4 +1,5 @@
 *.docx
 *.doc
 xapp210.pdf
-xoroshiro128
+xoroshiro128+ 1.0.vhd
+xoroshiro128+ 1.0.c
