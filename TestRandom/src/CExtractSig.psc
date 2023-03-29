@@ -1,6 +1,6 @@
 component CExtractSig (in active uint iRandom    /*$ Default */,
-				out passive byte oRandomByte    /*$ Default */,
-				out passive bit oRandomBit    /*$ Default */)
+                       out passive byte oRandomByte    /*$ Default */,
+                       out passive bit oRandomBit    /*$ Default */)
 {
     Extract(0) on iRandom
     {

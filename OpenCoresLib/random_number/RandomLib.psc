@@ -1,4 +1,4 @@
-// ===================================================================
+// =================================================================== 
 // This is a library of cores to generate random numbers and bit sequences
 // ===================================================================
 // The library contains two cores:
@@ -9,7 +9,7 @@
 //
 //    - Random number generator (CRandomGen32)
 //        This cores generates 32 bits random numbers. It is an implemenation
-//        of the the ìxoroshiro128+ 1.0î algorithm.
+//        of the the ‚Äúxoroshiro128+ 1.0‚Äù algorithm. 
 //
 //        Licensing:
 //            Initial author statement:
